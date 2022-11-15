@@ -1,4 +1,4 @@
-#!/bin/bash
+./#!/bin/bash
 # Build and publish release to production server
 
 # Remote Server

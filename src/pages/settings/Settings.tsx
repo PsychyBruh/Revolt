@@ -267,7 +267,7 @@ export default observer(() => {
                         <Text id="app.special.modals.changelogs.title" />
                     </ButtonItem>
                     <a
-                        href="https://github.com/revoltchat"
+                        href="https://github.com/PsychyBruh/PsychyRevite"
                         target="_blank"
                         rel="noreferrer">
                         <ButtonItem compact>
@@ -275,15 +275,7 @@ export default observer(() => {
                             <Text id="app.settings.pages.source_code" />
                         </ButtonItem>
                     </a>
-                    <a
-                        href="https://insrt.uk/donate"
-                        target="_blank"
-                        rel="noreferrer">
-                        <ButtonItem className={styles.donate} compact>
-                            <Coffee size={20} />
-                            <Text id="app.settings.pages.donate.title" />
-                        </ButtonItem>
-                    </a>
+                   
                     <LineDivider compact />
                     <ButtonItem
                         onClick={clientController.logoutCurrent}

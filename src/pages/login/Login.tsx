@@ -76,20 +76,11 @@ export default observer(() => {
                         <div className={styles.links}>
                             <div className={styles.socials}>
                                 <a
-                                    href="https://github.com/revoltchat"
+                                    href="https://github.com/PsychyBruh/PsychyRevite"
                                     target="_blank" rel="noreferrer">
                                     <Github size={24} />
                                 </a>
-                                <a
-                                    href="https://twitter.com/revoltchat"
-                                    target="_blank" rel="noreferrer">
-                                    <Twitter size={24} />
-                                </a>
-                                <a
-                                    href="https://mastodon.social/@revoltchat"
-                                    target="_blank" rel="noreferrer">
-                                    <Mastodon size={24} />
-                                </a>
+
                             </div>
                             <div className={styles.bullet} />
                             <div className={styles.revolt}>
