@@ -12,7 +12,7 @@
     "dev": {
       "name": "dev",
       "command": "yarn dev",
-      "runAtStart": true
+      "runAtStart": false
     },
     "pull": {
       "name": "pull",
@@ -67,6 +67,14 @@
     "yarn": {
       "name": "yarn",
       "command": "yarn"
+    },
+    "git submodule init": {
+      "name": "git submodule init",
+      "command": "git submodule init"
+    },
+    "git submodule update": {
+      "name": "git submodule update",
+      "command": "git submodule update"
     }
   }
 }
