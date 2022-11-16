@@ -49,7 +49,7 @@ export function Feedback() {
                     <Text id="app.settings.pages.feedback.bug" />
                 </CategoryButton>
             </a>
-            <Link to="/invite/Testers">
+            <Link to="/invite/0AqCVY6n">
                 <a>
                     <CategoryButton
                         action="chevron"
